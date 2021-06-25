@@ -1,0 +1,9 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\bin\Debug\06AbstractClass.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\bin\Debug\06AbstractClass.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\bin\Debug\06AbstractClass.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\obj\Debug\_06AbstractClass.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\obj\Debug\_06AbstractClass.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\obj\Debug\06AbstractClass.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\obj\Debug\06AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\obj\Debug\06AbstractClass.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\06AbstractClass\06AbstractClass\obj\Debug\06AbstractClass.pdb

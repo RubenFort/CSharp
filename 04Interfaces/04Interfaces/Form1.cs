@@ -50,7 +50,7 @@ namespace _04Interfaces
             {
                 mark = "Dell";
             }
-        }
+        } 
 
         private void button1_Click(object sender, EventArgs e)
         {

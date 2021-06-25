@@ -41,8 +41,9 @@
             this.btnSent.Name = "btnSent";
             this.btnSent.Size = new System.Drawing.Size(120, 49);
             this.btnSent.TabIndex = 8;
-            this.btnSent.Text = "Send";
+            this.btnSent.Text = "Close";
             this.btnSent.UseVisualStyleBackColor = true;
+            this.btnSent.Click += new System.EventHandler(this.btnSent_Click);
             // 
             // label4
             // 
@@ -92,7 +93,7 @@
 
         #endregion
 
-        public System.Windows.Forms.Button btnSent;
+        private System.Windows.Forms.Button btnSent;
         public System.Windows.Forms.Label label4;
         public System.Windows.Forms.Label label3;
         public System.Windows.Forms.Label label2;

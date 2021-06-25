@@ -16,5 +16,11 @@ namespace _01Encapsulation
         {
             InitializeComponent();
         }
+
+        private void btnSent_Click(object sender, EventArgs e)
+        {
+            //Cierra el formulario
+            this.Close();
+        }
     }
 }

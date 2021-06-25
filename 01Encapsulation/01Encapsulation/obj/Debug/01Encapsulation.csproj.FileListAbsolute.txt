@@ -1,0 +1,11 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\bin\Debug\01Encapsulation.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\bin\Debug\01Encapsulation.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\bin\Debug\01Encapsulation.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\obj\Debug\01Encapsulation.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\obj\Debug\_01Encapsulation.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\obj\Debug\_01Encapsulation.FormEmployeeDetails.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\obj\Debug\_01Encapsulation.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\obj\Debug\01Encapsulation.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\obj\Debug\01Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\obj\Debug\01Encapsulation.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\01Encapsulation\01Encapsulation\obj\Debug\01Encapsulation.pdb

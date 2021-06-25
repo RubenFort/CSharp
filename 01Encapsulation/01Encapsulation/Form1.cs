@@ -16,5 +16,20 @@ namespace _01Encapsulation
         {
             InitializeComponent();
         }
+
+        private void btnSent_Click(object sender, EventArgs e)
+        {
+            Employee employeeDetails = new Employee();
+            employeeDetails.EmployeeName = txtEmployeeName.Text;
+            employeeDetails.EmployeeAge = int.Parse(txtEmployeeAge.Text);
+            //employeeDetails.EmployeeAge = Convert.ToInt32(txtEmployeeAge.Text);
+            employeeDetails.EmployeePosition = txtEmployeePosition.Text;
+
+            FormEmployeeDetails frm = new FormEmployeeDetails();
+            frm.label2.Text = employeeDetails.EmployeeAge.ToString();
+            frm.label3.Text = employeeDetails.EmployeeName;
+            frm.label4.Text = employeeDetails.EmployeePosition;
+            frm.ShowDialog();
+        }
     }
 }

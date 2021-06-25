@@ -33,6 +33,8 @@
             this.btn2Parameter = new System.Windows.Forms.Button();
             this.btn3Parameter = new System.Windows.Forms.Button();
             this.btn4Parameter = new System.Windows.Forms.Button();
+            this.btnVirtual = new System.Windows.Forms.Button();
+            this.btnOverride = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn1Parameter
@@ -88,11 +90,35 @@
             this.btn4Parameter.UseVisualStyleBackColor = true;
             this.btn4Parameter.Click += new System.EventHandler(this.btn4Parameter_Click);
             // 
+            // btnVirtual
+            // 
+            this.btnVirtual.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVirtual.Location = new System.Drawing.Point(469, 23);
+            this.btnVirtual.Name = "btnVirtual";
+            this.btnVirtual.Size = new System.Drawing.Size(119, 39);
+            this.btnVirtual.TabIndex = 5;
+            this.btnVirtual.Text = "Virtual";
+            this.btnVirtual.UseVisualStyleBackColor = true;
+            this.btnVirtual.Click += new System.EventHandler(this.btnVirtual_Click);
+            // 
+            // btnOverride
+            // 
+            this.btnOverride.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOverride.Location = new System.Drawing.Point(469, 81);
+            this.btnOverride.Name = "btnOverride";
+            this.btnOverride.Size = new System.Drawing.Size(119, 39);
+            this.btnOverride.TabIndex = 6;
+            this.btnOverride.Text = "Override";
+            this.btnOverride.UseVisualStyleBackColor = true;
+            this.btnOverride.Click += new System.EventHandler(this.btnOverride_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(482, 386);
+            this.ClientSize = new System.Drawing.Size(661, 386);
+            this.Controls.Add(this.btnOverride);
+            this.Controls.Add(this.btnVirtual);
             this.Controls.Add(this.btn4Parameter);
             this.Controls.Add(this.btn3Parameter);
             this.Controls.Add(this.btn2Parameter);
@@ -112,6 +138,8 @@
         private System.Windows.Forms.Button btn2Parameter;
         private System.Windows.Forms.Button btn3Parameter;
         private System.Windows.Forms.Button btn4Parameter;
+        private System.Windows.Forms.Button btnVirtual;
+        private System.Windows.Forms.Button btnOverride;
     }
 }
 

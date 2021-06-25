@@ -48,5 +48,19 @@ namespace _05Polimorfismo
             string messageText = teacher.getValues();
             textBox1.Text = messageText;
         }
+
+        private void btnVirtual_Click(object sender, EventArgs e)
+        {
+            Employee2 emp2 = new Employee2();
+            string messageText = emp2.setValues(1, "Charles", 1856);
+            textBox1.Text = messageText;
+        }
+
+        private void btnOverride_Click(object sender, EventArgs e)
+        {
+            Teacher2 teacher2 = new Teacher2();
+            string messageText = teacher2.setValues(1, "Charles", 1856);
+            textBox1.Text = messageText;
+        }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\bin\Debug\05Polimorfismo.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\bin\Debug\05Polimorfismo.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\bin\Debug\05Polimorfismo.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\obj\Debug\05Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\obj\Debug\_05Polimorfismo.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\obj\Debug\_05Polimorfismo.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\obj\Debug\05Polimorfismo.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\obj\Debug\05Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\obj\Debug\05Polimorfismo.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\05Polimorfismo\05Polimorfismo\obj\Debug\05Polimorfismo.pdb

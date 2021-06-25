@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\bin\Debug\02StaticStatement.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\bin\Debug\02StaticStatement.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\bin\Debug\02StaticStatement.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\obj\Debug\02StaticStatement.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\obj\Debug\_02StaticStatement.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\obj\Debug\_02StaticStatement.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\obj\Debug\02StaticStatement.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\obj\Debug\02StaticStatement.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\obj\Debug\02StaticStatement.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\02StaticStatement\02StaticStatement\obj\Debug\02StaticStatement.pdb

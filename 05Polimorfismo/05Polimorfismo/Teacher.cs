@@ -18,5 +18,14 @@ namespace _05Polimorfismo
             text += "Employee Position: " + employeePosition + Environment.NewLine;
             return text;
         }
+
+        public void setValues(int id, string employeeName, double salary, string position)
+        {
+            employeeId = id;
+            name = employeeName;
+            employeeSalari = salary;
+            employeePosition = position;
+        }
+
     }
 }

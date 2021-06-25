@@ -16,5 +16,18 @@ namespace _05Polimorfismo
         {
             employeeId = id;
         }
+
+        public void setValues(int id, string employeeName)
+        {
+            employeeId = id;
+            name = employeeName;
+        }
+
+        public void setValues(int id, string employeeName, double salary)
+        {
+            employeeId = id;
+            name = employeeName;
+            employeeSalari = salary;
+        }
     }
 }

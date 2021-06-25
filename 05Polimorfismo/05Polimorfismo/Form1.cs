@@ -24,5 +24,29 @@ namespace _05Polimorfismo
             string messageText = teacher.getValues();
             textBox1.Text = messageText;
         }
+
+        private void btn2Parameter_Click(object sender, EventArgs e)
+        {
+            Teacher teacher = new Teacher();
+            teacher.setValues(1, "Charles");
+            string messageText = teacher.getValues();
+            textBox1.Text = messageText;
+        }
+
+        private void btn3Parameter_Click(object sender, EventArgs e)
+        {
+            Teacher teacher = new Teacher();
+            teacher.setValues(1, "Charles", 1856);
+            string messageText = teacher.getValues();
+            textBox1.Text = messageText;
+        }
+
+        private void btn4Parameter_Click(object sender, EventArgs e)
+        {
+            Teacher teacher = new Teacher();
+            teacher.setValues(1, "Charles", 1856, "Enginee");
+            string messageText = teacher.getValues();
+            textBox1.Text = messageText;
+        }
     }
 }

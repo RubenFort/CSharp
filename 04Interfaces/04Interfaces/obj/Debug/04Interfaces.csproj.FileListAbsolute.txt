@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\bin\Debug\04Interfaces.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\bin\Debug\04Interfaces.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\bin\Debug\04Interfaces.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\obj\Debug\04Interfaces.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\obj\Debug\_04Interfaces.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\obj\Debug\_04Interfaces.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\obj\Debug\04Interfaces.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\obj\Debug\04Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\obj\Debug\04Interfaces.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\04Interfaces\04Interfaces\obj\Debug\04Interfaces.pdb

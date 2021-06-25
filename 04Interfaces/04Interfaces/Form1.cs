@@ -23,10 +23,16 @@ namespace _04Interfaces
             void getLaptops();
         }
 
-        class DellComputer : Computer
+        interface DellComputer
+        {
+            void getMark();
+        }
+
+        class DellComputers : Computer,DellComputer
         {
             public string name { get; set; }
             public double price { get; set; }
+            public string mark { get; set; }
 
             public void getDesktops()
             {
@@ -39,6 +45,22 @@ namespace _04Interfaces
                 name = "Laptop01";
                 price = 1200;
             }
+
+            public void getMark()
+            {
+                mark = "Dell";
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DellComputers dell = new DellComputers();
+            dell.getLaptops();
+            dell.getMark();
+            string textValue = "Name: " + dell.name + Environment.NewLine;
+            textValue += "Price: " + dell.price + Environment.NewLine;
+            textValue += "Mark: " + dell.mark;
+            textBox1.Text = textValue;
         }
     }
 }

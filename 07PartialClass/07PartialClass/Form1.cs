@@ -34,6 +34,18 @@ namespace _07PartialClass
             }
         }
 
+        //Las clases selladas no se pueden heredear
+        public sealed class sealedClass
+        {
+
+        }
+
+        //Comento la clase pq da error de compilación, no puede heredar la clase sealedClass pq es sellada
+        /*public class newClass : sealedClass
+        {
+
+        }*/
+
         private void btnShow_Click(object sender, EventArgs e)
         {
             Employee emp = new Employee();

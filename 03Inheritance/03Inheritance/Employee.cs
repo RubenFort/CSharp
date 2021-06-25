@@ -18,5 +18,10 @@ namespace _03Inheritance
             gender = 'M';
             age = 30;
         }
+
+        public double getSalary()
+        {
+            return salary;
+        }
     }
 }

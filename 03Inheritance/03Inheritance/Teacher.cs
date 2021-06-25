@@ -9,6 +9,7 @@ namespace _03Inheritance
     class Teacher:Employee
     {
         public string branch { get; set; }
+        public int plus = 30;
 
         public void findSalary()
             {

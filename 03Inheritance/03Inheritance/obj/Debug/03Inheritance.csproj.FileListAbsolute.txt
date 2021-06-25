@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\bin\Debug\03Inheritance.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\bin\Debug\03Inheritance.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\bin\Debug\03Inheritance.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\obj\Debug\03Inheritance.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\obj\Debug\_03Inheritance.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\obj\Debug\_03Inheritance.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\obj\Debug\03Inheritance.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\obj\Debug\03Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\obj\Debug\03Inheritance.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\03Inheritance\03Inheritance\obj\Debug\03Inheritance.pdb

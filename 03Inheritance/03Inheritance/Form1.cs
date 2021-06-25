@@ -16,5 +16,22 @@ namespace _03Inheritance
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Employee emp = new Employee();
+            Teacher teacher = new Teacher();
+            teacher.setValues();
+            teacher.setValues2();
+            teacher.findSalary();
+            string allValues = "";
+            allValues += teacher.name + Environment.NewLine;
+            allValues += teacher.gender + Environment.NewLine;
+            allValues += teacher.age + Environment.NewLine;
+            allValues += teacher.branch + Environment.NewLine;
+            allValues += teacher.getSalary() + Environment.NewLine;
+            allValues += teacher.plus + Environment.NewLine;
+            textBox1.Text = allValues;
+        }
     }
 }

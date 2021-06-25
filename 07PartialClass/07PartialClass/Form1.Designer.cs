@@ -41,6 +41,7 @@
             this.btnShow.TabIndex = 0;
             this.btnShow.Text = "Show";
             this.btnShow.UseVisualStyleBackColor = true;
+            this.btnShow.Click += new System.EventHandler(this.btnShow_Click);
             // 
             // textBoxShow
             // 

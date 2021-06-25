@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\bin\Debug\07PartialClass.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\bin\Debug\07PartialClass.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\bin\Debug\07PartialClass.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\obj\Debug\07PartialClass.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\obj\Debug\_07PartialClass.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\obj\Debug\_07PartialClass.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\obj\Debug\07PartialClass.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\obj\Debug\07PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\obj\Debug\07PartialClass.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\07PartialClass\07PartialClass\obj\Debug\07PartialClass.pdb

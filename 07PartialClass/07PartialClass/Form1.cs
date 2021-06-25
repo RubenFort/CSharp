@@ -33,5 +33,14 @@ namespace _07PartialClass
                 salary = 2000;
             }
         }
+
+        private void btnShow_Click(object sender, EventArgs e)
+        {
+            Employee emp = new Employee();
+            emp.setValues();
+            textBoxShow.Text = emp.employeeId + Environment.NewLine;
+            textBoxShow.Text += emp.name + Environment.NewLine;
+            textBoxShow.Text += emp.salary + Environment.NewLine;
+        }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\obj\Debug\11FileInfo.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\obj\Debug\_11FileInfo.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\obj\Debug\_11FileInfo.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\obj\Debug\11FileInfo.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\obj\Debug\11FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\bin\Debug\11FileInfo.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\bin\Debug\11FileInfo.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\bin\Debug\11FileInfo.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\obj\Debug\11FileInfo.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\obj\Debug\11FileInfo.pdb

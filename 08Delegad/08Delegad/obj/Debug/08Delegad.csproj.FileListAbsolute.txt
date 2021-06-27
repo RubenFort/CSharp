@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\bin\Debug\08Delegad.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\bin\Debug\08Delegad.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\bin\Debug\08Delegad.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\obj\Debug\08Delegad.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\obj\Debug\_08Delegad.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\obj\Debug\_08Delegad.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\obj\Debug\08Delegad.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\obj\Debug\08Delegad.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\obj\Debug\08Delegad.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Delegad\08Delegad\obj\Debug\08Delegad.pdb

@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\bin\Debug\08Enumerados.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\bin\Debug\08Enumerados.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\bin\Debug\08Enumerados.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\obj\Debug\08Enumerados.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\obj\Debug\_08Enumerados.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\obj\Debug\_08Enumerados.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\obj\Debug\08Enumerados.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\obj\Debug\08Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\obj\Debug\08Enumerados.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\08Enumerados\08Enumerados\obj\Debug\08Enumerados.pdb

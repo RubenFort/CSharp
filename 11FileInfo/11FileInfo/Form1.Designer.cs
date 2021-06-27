@@ -31,6 +31,8 @@
             this.btnCreate = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnWrite = new System.Windows.Forms.Button();
+            this.btnRead = new System.Windows.Forms.Button();
+            this.txtRead = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // btnCreate
@@ -66,17 +68,40 @@
             this.btnWrite.UseVisualStyleBackColor = true;
             this.btnWrite.Click += new System.EventHandler(this.btnWrite_Click);
             // 
+            // btnRead
+            // 
+            this.btnRead.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRead.Location = new System.Drawing.Point(533, 35);
+            this.btnRead.Name = "btnRead";
+            this.btnRead.Size = new System.Drawing.Size(135, 48);
+            this.btnRead.TabIndex = 3;
+            this.btnRead.Text = "Read";
+            this.btnRead.UseVisualStyleBackColor = true;
+            this.btnRead.Click += new System.EventHandler(this.btnRead_Click);
+            // 
+            // txtRead
+            // 
+            this.txtRead.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtRead.Location = new System.Drawing.Point(37, 125);
+            this.txtRead.Multiline = true;
+            this.txtRead.Name = "txtRead";
+            this.txtRead.Size = new System.Drawing.Size(631, 132);
+            this.txtRead.TabIndex = 4;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(561, 194);
+            this.ClientSize = new System.Drawing.Size(739, 297);
+            this.Controls.Add(this.txtRead);
+            this.Controls.Add(this.btnRead);
             this.Controls.Add(this.btnWrite);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnCreate);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -85,6 +110,8 @@
         private System.Windows.Forms.Button btnCreate;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnWrite;
+        private System.Windows.Forms.Button btnRead;
+        private System.Windows.Forms.TextBox txtRead;
     }
 }
 

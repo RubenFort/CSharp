@@ -48,5 +48,19 @@ namespace _11FileInfo
             sw.Close();
             fs.Close();
         }
+
+        private void btnRead_Click(object sender, EventArgs e)
+        {
+            FileStream fs = new FileStream("third.txt", FileMode.Open, FileAccess.Read);
+            StreamReader sr = new StreamReader(fs);
+            string text = "";
+            while (!sr.EndOfStream)
+            {
+                text += sr.ReadLine() + Environment.NewLine;
+            }
+            sr.Close();
+            fs.Close();
+            txtRead.Text = text;
+        }
     }
 }

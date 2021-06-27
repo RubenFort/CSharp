@@ -20,6 +20,12 @@ namespace _10Directory
 
         private void btnCreate_Click(object sender, EventArgs e)
         {
+            //Comrpobamos si existe el directorio folder2, si no existe lo creamos
+            if (!Directory.Exists("folder2"))
+            {
+                Directory.CreateDirectory("folder2");
+            }
+
             Directory.CreateDirectory("temp");//Por defecto crea la carpeta en la ruta /bin/debug
             Directory.CreateDirectory("temp1");
             DirectoryInfo directory = new DirectoryInfo(@"C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\10Directory\10Directory\bin\Debug\temp2");

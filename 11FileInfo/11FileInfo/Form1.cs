@@ -62,5 +62,10 @@ namespace _11FileInfo
             fs.Close();
             txtRead.Text = text;
         }
+
+        private void btnCopy_Click(object sender, EventArgs e)
+        {
+            File.Copy("third.txt", @"C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\third.txt");
+        }
     }
 }

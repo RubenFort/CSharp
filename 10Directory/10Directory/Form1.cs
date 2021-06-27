@@ -32,6 +32,10 @@ namespace _10Directory
             Directory.CreateDirectory("temp3");
             directory.Create();
             MessageBox.Show("Folder was created");
+
+            string accessTime = directory.LastAccessTime.ToString();
+            string createTime = directory.CreationTime.ToString();
+            MessageBox.Show("Ultimo acceso: " + accessTime + Environment.NewLine + "Fecha de creación: " + createTime);
         }
 
         private void btnMove_Click(object sender, EventArgs e)

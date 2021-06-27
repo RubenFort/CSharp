@@ -35,5 +35,18 @@ namespace _11FileInfo
                 File.Delete("FisrtFile.txt");
             }
         }
+
+        private void btnWrite_Click(object sender, EventArgs e)
+        {
+            FileStream fs = new FileStream("third.txt", FileMode.OpenOrCreate, FileAccess.Write);   //(Path, controlar si existe o no el fichero
+                                                                                                    //y crear un en su lugar, acceso a la escritura o lectura)
+            StreamWriter sw = new StreamWriter(fs);
+            sw.WriteLine("This is first lines");
+            sw.WriteLine("This is second lines");
+            sw.WriteLine("This is third lines");
+            sw.Flush();//Transferir datos desdxed el flujo temporal al fichero
+            sw.Close();
+            fs.Close();
+        }
     }
 }

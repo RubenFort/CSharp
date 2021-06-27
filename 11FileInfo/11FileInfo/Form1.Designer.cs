@@ -30,6 +30,7 @@
         {
             this.btnCreate = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
+            this.btnWrite = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCreate
@@ -54,11 +55,23 @@
             this.btnDelete.UseVisualStyleBackColor = true;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
+            // btnWrite
+            // 
+            this.btnWrite.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnWrite.Location = new System.Drawing.Point(369, 35);
+            this.btnWrite.Name = "btnWrite";
+            this.btnWrite.Size = new System.Drawing.Size(135, 48);
+            this.btnWrite.TabIndex = 2;
+            this.btnWrite.Text = "Write";
+            this.btnWrite.UseVisualStyleBackColor = true;
+            this.btnWrite.Click += new System.EventHandler(this.btnWrite_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(561, 194);
+            this.Controls.Add(this.btnWrite);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnCreate);
             this.Name = "Form1";
@@ -71,6 +84,7 @@
 
         private System.Windows.Forms.Button btnCreate;
         private System.Windows.Forms.Button btnDelete;
+        private System.Windows.Forms.Button btnWrite;
     }
 }
 

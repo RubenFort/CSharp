@@ -1,0 +1,10 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\bin\Debug\09Excepciones.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\bin\Debug\09Excepciones.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\bin\Debug\09Excepciones.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\obj\Debug\09Excepciones.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\obj\Debug\_09Excepciones.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\obj\Debug\_09Excepciones.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\obj\Debug\09Excepciones.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\obj\Debug\09Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\obj\Debug\09Excepciones.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\09Excepciones\09Excepciones\obj\Debug\09Excepciones.pdb

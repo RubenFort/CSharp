@@ -1,0 +1,9 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\bin\Debug\12Path.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\bin\Debug\12Path.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\bin\Debug\12Path.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\_12Path.Form1.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\_12Path.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\12Path.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\12Path.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\12Path.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\12Path.pdb

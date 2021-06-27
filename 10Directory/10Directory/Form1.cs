@@ -23,8 +23,8 @@ namespace _10Directory
             Directory.CreateDirectory("temp");//Por defecto crea la carpeta en la ruta /bin/debug
             Directory.CreateDirectory("temp1");
             DirectoryInfo directory = new DirectoryInfo(@"C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\10Directory\10Directory\bin\Debug\temp2");
+            Directory.CreateDirectory("temp3");
             directory.Create();
-
             MessageBox.Show("Folder was created");
         }
 
@@ -33,6 +33,21 @@ namespace _10Directory
             try
             {
                 Directory.Move("temp", @"C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\10Directory\10Directory\bin\Debug\temp1\temp");
+                MessageBox.Show("Folder was moved");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Directory.Delete("temp3");
+                MessageBox.Show("Folder was deleted");
             }
             catch (Exception ex)
             {

@@ -67,5 +67,13 @@ namespace _11FileInfo
         {
             File.Copy("third.txt", @"C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\11FileInfo\11FileInfo\third.txt");
         }
+
+        private void btnProperty_Click(object sender, EventArgs e)
+        {
+            FileInfo ourFile = new FileInfo("property.txt");
+            string txtProperties = "Path: " + ourFile.FullName + Environment.NewLine;
+            txtProperties += "Last Access: " + ourFile.LastAccessTime + Environment.NewLine;
+            MessageBox.Show(txtProperties);
+        }
     }
 }

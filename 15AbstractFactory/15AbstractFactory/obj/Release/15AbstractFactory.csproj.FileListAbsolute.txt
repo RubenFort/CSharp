@@ -1,0 +1,6 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\15AbstractFactory\15AbstractFactory\bin\Release\15AbstractFactory.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\15AbstractFactory\15AbstractFactory\bin\Release\15AbstractFactory.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\15AbstractFactory\15AbstractFactory\bin\Release\15AbstractFactory.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\15AbstractFactory\15AbstractFactory\obj\Release\15AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\15AbstractFactory\15AbstractFactory\obj\Release\15AbstractFactory.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\15AbstractFactory\15AbstractFactory\obj\Release\15AbstractFactory.pdb

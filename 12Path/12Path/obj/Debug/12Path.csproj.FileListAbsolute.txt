@@ -7,3 +7,4 @@ C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12
 C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\12Path.csproj.CoreCompileInputs.cache
 C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\12Path.exe
 C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\12Path.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\12Path\12Path\obj\Debug\12Path.csprojAssemblyReference.cache

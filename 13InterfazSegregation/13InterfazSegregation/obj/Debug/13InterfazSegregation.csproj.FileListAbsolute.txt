@@ -1,0 +1,9 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\bin\Debug\13InterfazSegregation.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\bin\Debug\13InterfazSegregation.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\bin\Debug\13InterfazSegregation.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\obj\Debug\13InterfazSegregation.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\obj\Debug\_13InterfazSegregation.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\obj\Debug\13InterfazSegregation.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\obj\Debug\13InterfazSegregation.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\obj\Debug\13InterfazSegregation.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\13InterfazSegregation\13InterfazSegregation\obj\Debug\13InterfazSegregation.pdb

@@ -1,0 +1,9 @@
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\bin\Debug\14DependencyInversion.exe.config
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\bin\Debug\14DependencyInversion.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\bin\Debug\14DependencyInversion.pdb
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\obj\Debug\14DependencyInversion.csprojAssemblyReference.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\obj\Debug\_14DependencyInversion.Properties.Resources.resources
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\obj\Debug\14DependencyInversion.csproj.GenerateResource.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\obj\Debug\14DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\obj\Debug\14DependencyInversion.exe
+C:\Users\Crowley\source\repos\Udemy - Programación Orientada a Objetos en C#\14DependencyInversion\14DependencyInversion\obj\Debug\14DependencyInversion.pdb

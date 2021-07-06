@@ -17,7 +17,13 @@ namespace _14DependencyInversion
             InitializeComponent();
         }
 
-        class HoldFileLogs
+        interface Ilogger
+        {
+            string Message { get; set; }
+            void LogContext();
+        }
+
+        class HoldFileLogs : Ilogger
         {
             public string Message { get; set; }
             public void LogContext()
@@ -26,7 +32,7 @@ namespace _14DependencyInversion
             }
         }
 
-        class HoldDBLogs
+        class HoldDBLogs : Ilogger
         {
             public string Message { get; set; }
             public void LogContext()
@@ -35,20 +41,20 @@ namespace _14DependencyInversion
             }
         }
 
+        //Solo dependo de la interface. La variable que nos llega a traves de los métodos nos da igual que sea 
+        //tipo HoldFileLogs o HoldDBLogs, ya le llegará al constructor
         class ManageLogs
         {
-            private HoldFileLogs holdFileLogs;
-            private HoldDBLogs holdDBLogs;
-            public ManageLogs()
+            private Ilogger iloger;
+
+            public ManageLogs(Ilogger loger)
             {
-                holdFileLogs = new HoldFileLogs();
-                holdDBLogs = new HoldDBLogs();
+                iloger = loger;
             }
 
-            public void LogContext()
+            public void LogContext(Ilogger iloger)
             {
-                holdFileLogs.LogContext();
-                holdDBLogs.LogContext();
+                iloger.LogContext();
             }
         }
     }
